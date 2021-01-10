@@ -1,2 +1,2 @@
 # 0xShell
-0xShell For Bypass All Server WAFF
+0xShell For Bypass All Server WAF
